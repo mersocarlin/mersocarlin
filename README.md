@@ -1,4 +1,14 @@
+# Hemerson Carlin (_mersocarlin_)
+
+[![Website Badge](https://img.shields.io/badge/-Website-333333?style=flat-square&logo=Hugo&logoColor=white&link=https://mersocarlin.com/)](https://mersocarlin.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mersocarlin/)](https://www.linkedin.com/in/mersocarlin/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/mersocarlin)](https://twitter.com/mersocarlin)
+[![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1461131/mersocarlin)](https://stackoverflow.com/users/1461131/mersocarlin)
+
+
 ### Hi there 👋
+
+I'm Hemerson Carlin, also known as _mersocarlin_, and I'm a Full Stack JavaScript Developer from Brazil based in Dublin, Ireland.
 
 <!--
 **mersocarlin/mersocarlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
